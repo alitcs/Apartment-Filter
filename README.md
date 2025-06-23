@@ -48,7 +48,7 @@ pip install selenium webdriver-manager openai
 
 1. Go to [apartments.com](https://www.apartments.com) and apply your preferred filters (e.g. city, price range, bedrooms).
 2. Copy the filtered URL and replace the one in the `driver.get(...)` line inside `apartments.py`.
-3. Replace the `api_key="*****"` placeholder with your actual OpenAI API key.
+3. Include your own actual OpenAI API key.
 4. Run the script:
 
 ```
