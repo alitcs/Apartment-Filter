@@ -1,4 +1,4 @@
-# Apartment Filter Script
+# Apartment Scraper Script
 
 This Python script automates the process of filtering apartments on [apartments.com](https://www.apartments.com) based on custom search criteria and intelligently determines if a listing is truly a 2-bedroom unit. The script uses Selenium to scrape listings and OpenAI's GPT model to analyze the apartment descriptions.
 
